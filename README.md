@@ -69,8 +69,6 @@ Developed as part of a full-stack project with support code provided by the team
 
 ---
 
-## ⚙ Setup Instructions
 
-### 1️⃣ Clone the Repository:
-```bash
-git clone https://github.com/ramyasai-333/BookNest-Where-Stories-Nestle
+
+
